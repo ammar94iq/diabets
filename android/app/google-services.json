@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527656061129",
+    "project_id": "diabets-791f0",
+    "storage_bucket": "diabets-791f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527656061129:android:e344832f8c92ad8be8e518",
+        "android_client_info": {
+          "package_name": "com.example.diabets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPUOFsv6QmtHYK9pI0BxNnjM7zjBA6Uik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
